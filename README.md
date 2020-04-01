@@ -27,6 +27,9 @@ Open source is bigger than any company or community. The project list is release
 
 One file [projects.json](https://github.com/oviohub/covid-19-projects/blob/master/projects.json).
 
+### Contributing
+
+This is a collaborative projects and contributions are more than welcome. Have a look at our [Contributing.md](https://github.com/oviohub/covid-19-projects/blob/master/CONTRIBUTING.md) and join the effort!
 
 ## License
 
