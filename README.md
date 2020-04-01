@@ -8,17 +8,17 @@ A collaborative list of open source efforts in the fight against the covid-19 pa
 
 The world is facing an unprecedented crisis. People from all around the world have been coming together and are deploying an incredible amount of enerrgy to fight this pandemic. In just a few weeks, the open-source community has seeen thousands of projects and millions of contributors deploy their energy and skills.
 
-With everybody on our planet facing a commmon threat, open-source is a super-power, catalyzing the knowledge of everyone.
+With everybody on our planet facing a common threat, open-source is a super-power, catalyzing the knowledge of everyone.
 
-Unfortunately, with so many individuals and groups hacking towwards similar goals, and despite working in the open, we are also witnessed an extraodrinary level of duplication.
+Unfortunately, with so many individuals and groups hacking towards similar goals, and despite working in the open, we are also witnessing an extraordinary level of duplication.
 
-Our hope is to play our part in focusing efforts of developers, data-scientists and hackers to avoid duplication and maximize the impact key projects.
+Our hope is to play our part in focusing efforts of developers, data-scientists and hackers to avoid duplication and maximize the impact of key projects.
 
-As this is such an important topic to many people at this time, we've decided to work on this list as openly and collaboratively as possible.
+As this is such an important cause to many people at this time, we've decided to work on this list as openly and collaboratively as possible.
 
 ### Centralize & Connect
 
-Our work will consisist in scooting and curating the most promising endeavors, and we need your help!
+Our work will consisist of scooting and curating the most promising endeavors, and we need your help!
 In addition, we are leveraging our network and our [platform](https://explore.ovio.org) to connect developers to open-source projects that need their skills.
 
 ## Open data
