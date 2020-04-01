@@ -6,7 +6,7 @@ A collaborative list of open source efforts in the fight against the covid-19 pa
 
 ## Why is Ovio doing this?
 
-The world is facing an unprecedented crisis. People from all around the world have been coming together and are deploying an incredible amount of enerrgy to fight this pandemic. In just a few weeks, the open-source community has seeen thousands of projects and millions of contributors deploy their energy and skills.
+The world is facing an unprecedented crisis. People from all around the world have been coming together and are deploying an incredible amount of energy to fight this pandemic. In just a few weeks, the open-source community has seen thousands of projects and millions of contributors use their skills.
 
 With everybody on our planet facing a common threat, open-source is a super-power, catalyzing the knowledge of everyone.
 
