@@ -10,15 +10,15 @@ The world is facing an unprecedented crisis. People from all around the world ha
 
 With everybody on our planet facing a common threat, open-source is a super-power, catalyzing the knowledge of everyone.
 
-Unfortunately, with so many individuals and groups hacking towards similar goals, and despite working in the open, we are also witnessing an extraordinary level of duplication.
+Unfortunately, with so many individuals and groups hacking toward similar goals, and despite working in the open, we are also witnessing an extraordinary level of duplication.
 
-Our hope is to play our part in focusing efforts of developers, data-scientists and hackers to avoid duplication and maximize the impact of key projects.
+Our hope is to play our part in focusing efforts of developers, data scientists and hackers to avoid duplication and maximize the impact of key projects.
 
 As this is such an important cause to many people at this time, we've decided to work on this list as openly and collaboratively as possible.
 
 ### Centralize & Connect
 
-Our work will consisist of scooting and curating the most promising endeavors, and we need your help!
+Our work will consisist of scouting for and curating the most promising endeavors, and we need your help!
 In addition, we are leveraging our network and our [platform](https://explore.ovio.org) to connect developers to open-source projects that need their skills.
 
 ## Open data
@@ -29,7 +29,7 @@ One file [projects.json](https://github.com/oviohub/covid-19-projects/blob/maste
 
 ### Contributing
 
-This is a collaborative projects and contributions are more than welcome. Have a look at our [Contributing.md](https://github.com/oviohub/covid-19-projects/blob/master/CONTRIBUTING.md) and join the effort!
+This is a collaborative project and contributions are more than welcome. Have a look at our [Contributing.md](https://github.com/oviohub/covid-19-projects/blob/master/CONTRIBUTING.md) and join the effort!
 
 ## License
 
