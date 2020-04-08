@@ -99,17 +99,6 @@
     "owner": { "name": "Reach4Help" }
   },
   {
-    "name": "Folding@Home",
-    "url": "https://github.com/FoldingAtHome/coronavirus",
-    "imageUrl": "https://avatars0.githubusercontent.com/u/4166223?s=200&v=4",
-    "nameWithOwner": "FoldingAtHome/coronavirus",
-    "description": "The Folding@home efforts to better understand how the SARS-CoV-2 virus that causes COVID-19 can be targeted with small molecule and antibody therapeutics.",
-    "category": ["OSS", "Open data"],
-    "codeLanguages": ["Python"],
-    "impactAreas": ["3. Good Health and Well-being"],
-    "owner": {"name": "Folding@Home"}
-  },
-  {
     "name": "Intelehealth",
     "url": "https://github.com/Intelehealth/Android-Mobile-Client",
     "imageUrl": "https://github.com/Intelehealth.png",
