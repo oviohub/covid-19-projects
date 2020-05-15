@@ -573,5 +573,105 @@
     "codeLanguages": ["JavaScript"],
     "impactAreas": ["3. Good Health and Well-being"],
     "owner": { "name": "Emergenzehack" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: Internal Dashboard",
+    "url": "https://github.com/africa-covid-19-response-toolkit/internal-dashboard",
+    "imageUrl": "https://miro.medium.com/max/1400/1*ywcuHJwOPoJEBjXPwOfKRA.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/internal-dashboard",
+    "description": "Internal dashboard for officials to get real-time data and updates on COVID-19 on surveillance, case tracking, and monitoring.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: Surveillance Forms",
+    "url": "https://github.com/africa-covid-19-response-toolkit/surveillance-forms",
+    "imageUrl": "https://miro.medium.com/max/1400/1*R91i7Ig9nXTWo7eYI671gw.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/surveillance-forms",
+    "description": "Online forms for reporting rumored COVID-19 cases.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: Bot Starter Kit",
+    "url": "https://github.com/africa-covid-19-response-toolkit/bot-starter-kit",
+    "imageUrl": "https://miro.medium.com/max/1400/1*eBmYTzVEjCJmcFR7VIJY9Q.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/bot-starter-kit",
+    "description": "A basic template/starter kit for building a Messenger or Telegram bot integrated with the core Africa COVID-19 Response Toolkit (ACRT) API.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: House Vacancy Bot",
+    "url": "https://github.com/africa-covid-19-response-toolkit/housing-vacancy-bot",
+    "imageUrl": "https://miro.medium.com/max/1400/1*l1zrJIC6KhN72kn32RY3Cw.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/housing-vacancy-bot",
+    "description": "A Telegram bot that allows housing officials/owners to report vacancy to a central source and allows health works/government officials to consume that information.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: Heroes Bot",
+    "url": "https://github.com/africa-covid-19-response-toolkit/heroes-bot",
+    "imageUrl": "https://miro.medium.com/max/1400/1*eBmYTzVEjCJmcFR7VIJY9Q.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/heroes-bot",
+    "description": "A Telegram bot that allows frontline healthcare workers to log symptoms they are experiencing, get counseling, best practice information, logistical assistance and provide creative ways to distress.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: Awareness SMS",
+    "url": "https://github.com/africa-covid-19-response-toolkit/awareness-sms",
+    "imageUrl": "https://miro.medium.com/max/1400/1*ZcDY2BDCBa8tkt79q8V8qw.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/awareness-sms",
+    "description": "Node.js wrapper for Africa’s Talking SMS API. Allows government entities to send mass SMS to text the public critical COVID-19 related information.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: Awareness Website",
+    "url": "https://github.com/africa-covid-19-response-toolkit/awareness-website",
+    "imageUrl": "https://miro.medium.com/max/1400/1*7LQjQZMQ9gZbwuiTQC3FPw.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/awareness-website",
+    "description": "A static public website that any government body can use to spread awareness about COVID-19 to their population.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: Emergency Relief Package Tracker",
+    "url": "https://github.com/africa-covid-19-response-toolkit/emergency-relief-package-tracker",
+    "imageUrl": "https://miro.medium.com/max/1400/1*eVwAdR6LcBEkvYTh_NHHEQ.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/emergency-relief-package-tracker",
+    "description": "Web app that allows organizations to track and manage the distribution of emergency relief packages. Pick up and drop off can be logged via a mobile interface that captures your GPS location and plots that on a dashboard.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: API",
+    "url": "https://github.com/africa-covid-19-response-toolkit/api",
+    "imageUrl": "https://miro.medium.com/max/1400/1*H6Bo0hzjds3G0xH0ET9xZQ.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/api",
+    "description": "Core API for Africa COVID-19 Response Toolkit. Ingests and pushes data to Toolkit components.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
+  },
+  {
+    "name": "Africa COVID-19 Response Toolkit: AWS Infrastructure",
+    "url": "https://github.com/africa-covid-19-response-toolkit/aws-infrastructure",
+    "imageUrl": "https://miro.medium.com/max/1400/1*20PtQv3ZWs9IQknzBp-8nQ.png",
+    "nameWithOwner": "africa-covid-19-response-toolkit/aws-infrastructure",
+    "description": "AWS CloudFormation and Terraform templates to bootstrap AWS resources for Africa COVID-19 Response Toolkit projects.",
+    "category": ["OSS"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Africa COVID-19 Response Toolkit" }
   }
 ]
