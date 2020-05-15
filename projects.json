@@ -357,7 +357,7 @@
     "imageUrl": "https://github.com/wikirona.png",
     "nameWithOwner": "wikirona/wikirona",
     "description": "Our shared goal is ultimately to reduce deaths and suffering by helping people get the truth, helping people not get sick, helping people to go out less, helping produce and deploy tests, helping sick people survive, helping antiviral/vaccine research, helping techincal knowledge sharing, helping enforcement of isolation policies",
-    "category": ["Ressources"],
+    "category": ["Resources"],
     "codeLanguages": [],
     "impactAreas": ["3. Good Health and Well-being"],
     "owner": { "name": "Wikirona" }
@@ -368,7 +368,7 @@
     "imageUrl": "https://scontent-mrs2-2.xx.fbcdn.net/v/t1.0-9/90178414_10220557989115908_1109749760362807296_n.jpg?_nc_cat=102&_nc_sid=1480c5&_nc_ohc=GorTMvYIR7MAX_yS71z&_nc_ht=scontent-mrs2-2.xx&oh=c9a05aec9b0c3bc280dedead684fc448&oe=5E9BEADF",
     "nameWithOwner": "groupsfacebook/670932227050506",
     "description": "COVID-19 Hospital Impact Model for Epidemics",
-    "category": ["Ressources"],
+    "category": ["Resources"],
     "codeLanguages": [],
     "impactAreas": ["3. Good Health and Well-being"],
     "owner": { "name": "COVID19 Medical Supplies" }
@@ -390,7 +390,7 @@
     "imageUrl": "https://res.cloudinary.com/gived/image/upload/v1584658114/handbookpls/1584658113088.png",
     "nameWithOwner": "coronavirustechhandbook/coronavirustechhandbook",
     "description": "The Coronavirus Tech Handbook provides a space for technologists, civic organisations, public & private institutions, researchers and specialists of all kinds to collaborate on a rapid and sophisticated response to the coronavirus outbreak and subsequent impacts. It is a quickly evolving resource with thousands of active expert contributors.",
-    "category": ["Ressources"],
+    "category": ["Resources"],
     "codeLanguages": [],
     "impactAreas": ["3. Good Health and Well-being"],
     "owner": { "name": "Corona Virus Rechhandbook" }
@@ -432,7 +432,7 @@
     "owner": { "name": "Thomas Landrain" }
   },
   {
-    "name": "Low Ressource Ventilator",
+    "name": "Low Resource Ventilator",
     "url": "https://gitlab.com/TrevorSmale/OSV-OpenLung",
     "imageUrl": "https://assets.gitlab-static.net/uploads/-/system/project/avatar/17454594/OL_LOGO.png?width=64",
     "nameWithOwner": "trevorsmale/osv-openlung",
