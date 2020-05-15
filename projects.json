@@ -573,5 +573,16 @@
     "codeLanguages": ["JavaScript"],
     "impactAreas": ["3. Good Health and Well-being"],
     "owner": { "name": "Emergenzehack" }
+  },
+  {
+    "name": "SafeTrace",
+    "url": "https://github.com/enigmampc/safetrace",
+    "imageUrl": "https://miro.medium.com/max/1400/1*iZB-njSwAIm_sjyfA7o12g.png",
+    "nameWithOwner": "enigmampc/safetrace",
+    "description": "A privacy-preserving data sharing and analytics platform that runs inside a Trusted Execution Environment (Intel SGX)",
+    "category": ["OSS"],
+    "codeLanguages": ["Rust", "Javascript"],
+    "impactAreas": ["3. Good Health and Well-being"],
+    "owner": { "name": "Enigma MPC" }
   }
 ]
